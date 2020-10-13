@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-image: linear-gradient(to top, #fbc2eb, #a6c1ee 100%);
+  background-size: 600px;
   font-family: "Raleway", sans-serif;
   margin: auto;
 }
